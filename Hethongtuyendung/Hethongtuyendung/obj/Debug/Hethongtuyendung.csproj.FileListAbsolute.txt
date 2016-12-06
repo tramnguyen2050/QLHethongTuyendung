@@ -1,9 +1,0 @@
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\bin\Debug\Hethongtuyendung.exe.config
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\bin\Debug\Hethongtuyendung.exe
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\bin\Debug\Hethongtuyendung.pdb
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.csprojResolveAssemblyReference.cache
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.Properties.Resources.resources
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.csproj.GenerateResource.Cache
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.exe
-c:\users\tramnguyen\documents\visual studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.pdb
-C:\Users\TramNguyen\Documents\Visual Studio 2012\Projects\Hethongtuyendung\Hethongtuyendung\obj\Debug\Hethongtuyendung.FrmTuyenDung.resources
