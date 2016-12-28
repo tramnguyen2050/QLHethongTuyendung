@@ -1,0 +1,9 @@
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\bin\Debug\NhaTuyenDung.exe
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\bin\Debug\NhaTuyenDung.pdb
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.Form1.resources
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.NhaTuyenDung.resources
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.Properties.Resources.resources
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.csproj.GenerateResource.Cache
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.exe
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.pdb
+E:\formnhatuyendung\NhaTuyenDung\NhaTuyenDung\obj\x86\Debug\NhaTuyenDung.csprojResolveAssemblyReference.cache
